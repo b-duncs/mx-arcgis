@@ -5,7 +5,7 @@
             <widgetFile path="ArcGISMapViewer.xml"/>
         </widgetFiles>
         <files>
-            <file path="oneok/arcgismapviewer"/>
+            <file path="mendix/arcgismapviewer"/>
         </files>
     </clientModule>
 </package>

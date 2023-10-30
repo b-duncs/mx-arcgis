@@ -10,7 +10,7 @@ export interface ArcGISMapViewerContainerProps {
     class: string;
     style?: CSSProperties;
     tabIndex?: number;
-    sampleText: string;
+    basemap: string;
 }
 
 export interface ArcGISMapViewerPreviewProps {
@@ -22,5 +22,5 @@ export interface ArcGISMapViewerPreviewProps {
     style: string;
     styleObject?: CSSProperties;
     readOnly: boolean;
-    sampleText: string;
+    basemap: string;
 }

@@ -10,7 +10,7 @@
   },
   "license": "MIT",
   "config": {
-    "projectPath": "./Mendix/ArcGISMap-main",
+    "projectPath": "../mendix/custom-widgets",
     "mendixHost": "http://localhost:8080",
     "developmentPort": 3000
   },
